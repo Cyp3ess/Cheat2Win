@@ -21,6 +21,12 @@ Welcome to Cheat2Win. To get to appropriately needed downloads use the below dow
 
 - More relative hacks will be posted -
 
+### Commands
+```
+$ git clone
+$ git bash
+```
+
 
 ### Templates
 
@@ -40,5 +46,3 @@ You can use the [editor on GitHub](https://github.com/Cyp3ess/Cheat2Win/edit/mai
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
