@@ -45,4 +45,4 @@ You can use the [editor on GitHub](https://github.com/Cyp3ess/Cheat2Win/edit/mai
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image]()
