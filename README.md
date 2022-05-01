@@ -46,5 +46,6 @@ $ git bash
 - [Website Template](https://github.com/Rdimo/Cheataway.git)
 
 
-### Credits go to [Rdimo](https://github.com/Rdimo) 
+##### Credits go to [Rdimo](https://github.com/Rdimo) 
+(Rdimo is a big developer, most repositories are by him)
 
