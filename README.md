@@ -51,17 +51,3 @@ $ git bash
 
 - [Website Template](https://github.com/Rdimo/Cheataway.git)
 
-
-
-### Help/text formatting below
-
-You can use the [editor on GitHub](https://github.com/Cyp3ess/Cheat2Win/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-# Header 1
-## Header 2
-### Header 3
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image]()
