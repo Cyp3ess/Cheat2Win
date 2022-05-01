@@ -17,7 +17,7 @@ This was made by ~ Love ❌ code ✅
 - Discord [Injection](https://github.com/Rdimo/Discord-Injection.git)
 - Discord [Image-logger (Beta)](https://github.com/DarkoPendragon/discord.js-image-logger.git)
 
-- More relative hacks will be posted -
+More relative hacks will be posted 
 
 ### Windows 
 
