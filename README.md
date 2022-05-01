@@ -1,6 +1,8 @@
 ## Cheat2Win - The best Cheats
 
-Welcome to Cheat2Win. To get to appropriately needed downloads use the below downloads & links. If any help is needed contact me in [discord](discord.com) at ༒Cryptic༒#4979. Join the discord server and make a ticket if I am unavailable. ;)
+Welcome to Cheat2Win. To get to appropriately needed downloads use the below downloads & links. If any help is needed contact me in [discord](discord.com) at ༒Cryptic༒#4979. Join the [discord server](discord.gg/WpSkq4d4tk) and make a ticket if I am unavailable. ;)  
+
+
 
 ### Discord Cheats/Hacks
 
@@ -23,6 +25,8 @@ Welcome to Cheat2Win. To get to appropriately needed downloads use the below dow
 - [Website Template](https://github.com/Rdimo/Cheataway.git)
 
 
+
+
 ### Help/text formatting below
 
 You can use the [editor on GitHub](https://github.com/Cyp3ess/Cheat2Win/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -31,11 +35,6 @@ You can use the [editor on GitHub](https://github.com/Cyp3ess/Cheat2Win/edit/mai
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
