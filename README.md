@@ -13,6 +13,7 @@ Welcome to Cheat2Win. To get to appropriately needed downloads use the below dow
 - Discord [Webhook Protecter](https://github.com/Rdimo/Discord-Webhook-Protector.git)
 - Discord [Gen](https://github.com/Rdimo/GenBot.git)
 - Discord [Injection](https://github.com/Rdimo/Discord-Injection.git)
+- Discord [Image-logger (Beta)](https://github.com/DarkoPendragon/discord.js-image-logger.git)
 
 - More relative hacks will be posted -
 
