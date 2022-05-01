@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="https://image.pngaaa.com/707/2117707-middle.png">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 ## Cheat2Win - The best Cheats
 
