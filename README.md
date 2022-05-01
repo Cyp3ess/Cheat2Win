@@ -22,16 +22,9 @@ This was made by ~ Love ❌ code ✅
 ### Windows 
 
 [Anti-Debug](https://github.com/Rdimo/Anti-Debug.git) 
-```import os
-from anti_debug import AntiDebug
 
-if AntiDebug().inVM:
-    os._exit(0)
-else:
-    #we are not in a vm, run your malicious code or whatever
-``` 
 [Auto-Skillcheck](https://github.com/Rdimo/Auto-skillcheck.git)
-```pip install -r requirements.txt``` 
+
 [Defender Disabler](https://github.com/Rdimo/Defender-disabler.git)
 
 [PC-Cleaner](https://github.com/Rdimo/PC-Cleaner.git)
@@ -44,6 +37,7 @@ else:
 ```
 $ git clone
 $ git bash
+-pip install requirements.txt
 ```
 
 
