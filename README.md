@@ -8,7 +8,7 @@ Welcome to Cheat2Win. To get to appropriately needed downloads use the below dow
 
 ### Discord Cheats/Hacks
 
-- Discord [Rat](https://github.com/Rdimo/DiscordRAT.git)
+- Discord [RAT](https://github.com/Rdimo/DiscordRAT.git)
 - Discord [Token-Grabber](https://github.com/Rdimo/Hazard-Token-Grabber-V2.git)
 - Discord [Nuker](https://github.com/Rdimo/Hazard-Nuker.git)
 - Discord [Email-Spammer](https://github.com/Rdimo/Discord-email-spammer-exploit.git)
@@ -28,7 +28,6 @@ Welcome to Cheat2Win. To get to appropriately needed downloads use the below dow
 
 
 
-
 ### Help/text formatting below
 
 You can use the [editor on GitHub](https://github.com/Cyp3ess/Cheat2Win/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -42,5 +41,4 @@ You can use the [editor on GitHub](https://github.com/Cyp3ess/Cheat2Win/edit/mai
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
