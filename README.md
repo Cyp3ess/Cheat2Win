@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="https://image.pngaaa.com/707/2117707-middle.png">
+
 ## Cheat2Win - The best Cheats
 
 Welcome to Cheat2Win. To get to appropriately needed downloads use the below downloads & links. If any help is needed contact me in [discord](discord.com) at ༒Cryptic༒#4979. Join the [discord server](discord.gg/WpSkq4d4tk) and make a ticket if I am unavailable. ;)  
