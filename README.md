@@ -19,7 +19,7 @@ This was made by ~ Love ❌ code ✅
 
 More relative hacks will be posted 
 
-### Windows 
+### Windows Applications
 
 [Anti-Debug](https://github.com/Rdimo/Anti-Debug.git) 
 
@@ -34,6 +34,9 @@ More relative hacks will be posted
 [Auto-Bumper](https://github.com/Rdimo/Auto-Bumper.git)
 
 ### Commands
+
+These are not required but you may need them for a specific hack in the future. 
+
 ```
 $ git clone
 $ git bash
